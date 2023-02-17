@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "dc4cdb12b32f3be9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d6cd48dee526af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da760c2044d88185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Hybrid Logics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16ce5e09942316ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a7cc63a6958faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd59ffdb7738f18d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b78014a82ed8f4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Open Source Control View",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b86147345191eda",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "342eee991a1863c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df64083f5d208fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dee13b53e0b83ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Hybrid Logics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45644bb131903c6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Hybrid Logics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb688ff79acbbb30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a20cc4604410a23f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Hybrid Logics.md"
+              }
+            }
+          },
+          {
+            "id": "2d37b90bcfd0331d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb5d36eb00e54cb5",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "743a6649c853dfe7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4f0cc0c16d355a7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "74645cbc73af880c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 493.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-tts:Text to Speech": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "74645cbc73af880c",
+  "lastOpenFiles": [
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Epistemic Logic.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Dynamic Logic.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Deontic Logic.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Hybrid Logics.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Modal mu-calculus.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Modal logic of agency.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Modal logic of belief change.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Temporal logic.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Possible world semantics.md",
+    "Academic disciplines/Formal science/Mathematics/Pure mathematics/Mathematical logic and Foundations of mathematics/Modal logic/Predicate modal logic.md"
+  ]
+}
