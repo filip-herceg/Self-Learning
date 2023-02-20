@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d455902608ddc05a",
+        "id": "22dae852535c8498",
         "type": "tabs",
         "children": [
           {
-            "id": "da6c3591a122de6e",
+            "id": "79e2abce7fff205a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Propositional Modal Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b2aed1902d9c2f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Propositional Calculus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05424e32087bb74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Temporal Logic/Temporal Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ceef4499a481e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Propositional Modal Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14266226cfb1db80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUMMERNUSSBAUM/HummernussbaumEssen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUMMERNUSSBAUM/HummernussbaumEssen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUMMERNUSSBAUM/HummernussbaumEssen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HUMMERNUSSBAUM/HummernussbaumEssen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,17 +185,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "14266226cfb1db80",
+  "active": "cd59ffdb7738f18d",
   "lastOpenFiles": [
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Overview of Mathematical Logic and Foundations of Mathematics.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md",
+    "Academic disciplines/Social Science/Archaeology/Grand Pyramid of Giza.md",
+    "HUMMERNUSSBAUM/HummernussbaumEssen.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Propositional Modal Logic.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Predicate Modal Logic.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Modal mu-calculus.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Dynamic Logic.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
-    "Therooiiephashe 2/Science/Hummer.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Temporal Logic/Temporal Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Propositional Calculus.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Predicate Calculus.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Axiomatic Systems and Completeness Results.md"
+    "Therooiiephashe 2/Science/Hummer.md"
   ]
 }
