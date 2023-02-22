@@ -11,6 +11,6 @@ Directories are added automatically when adding files inside them. That is, dire
 To solve this, we need to add a .gitkeep dummyfile in every empty folder.
 Open up git bash in the `Self-Learning/git` directory and run this command, to add .gitkeept to all empty folders.
 
-`find $PATH_TO_REPOSITORY -type d ! -path "*.git*" -empty -exec touch '{}'/.gitkeep \;`
+`find ../ -type d ! -path "*.git*" -empty -exec touch '{}'/.gitkeep \;`
 
 After that, simply push the changes to the git repository.
