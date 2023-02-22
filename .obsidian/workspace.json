@@ -1,35 +1,46 @@
 {
   "main": {
-    "id": "dc4cdb12b32f3be9",
+    "id": "c0dfb0a8abd16747",
     "type": "split",
     "children": [
       {
-        "id": "22dae852535c8498",
+        "id": "9703be60fb6a620e",
         "type": "tabs",
         "children": [
           {
-            "id": "79e2abce7fff205a",
+            "id": "aabbe6e005c11069",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "13c741508554f171",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "16ce5e09942316ae",
+    "id": "599a2bfcf513e7ed",
     "type": "split",
     "children": [
       {
-        "id": "d7a7cc63a6958faa",
+        "id": "063e70ddb556b9c8",
         "type": "tabs",
         "children": [
           {
-            "id": "cd59ffdb7738f18d",
+            "id": "e394d9a4dc3e5502",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +50,7 @@
             }
           },
           {
-            "id": "9b78014a82ed8f4d",
+            "id": "292d0c68d7ab568a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +65,7 @@
             }
           },
           {
-            "id": "8b86147345191eda",
+            "id": "6660a145dce726a1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,15 +79,15 @@
     "width": 300
   },
   "right": {
-    "id": "342eee991a1863c9",
+    "id": "728e9d72c079b504",
     "type": "split",
     "children": [
       {
-        "id": "2df64083f5d208fe",
+        "id": "55636cbe411e8195",
         "type": "tabs",
         "children": [
           {
-            "id": "9dee13b53e0b83ed",
+            "id": "77fbdfee98755a8d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +103,7 @@
             }
           },
           {
-            "id": "45644bb131903c6e",
+            "id": "8968c8bd7afca8c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +114,7 @@
             }
           },
           {
-            "id": "fb688ff79acbbb30",
+            "id": "24f3bf505c013b8a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +125,7 @@
             }
           },
           {
-            "id": "a20cc4604410a23f",
+            "id": "b9e00d03b8d37567",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -122,23 +133,7 @@
             }
           },
           {
-            "id": "2d37b90bcfd0331d",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "bb5d36eb00e54cb5",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "743a6649c853dfe7",
+            "id": "16548ad6d8f3f809",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,7 +141,7 @@
             }
           },
           {
-            "id": "f4f0cc0c16d355a7",
+            "id": "060fe4a504a03862",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -154,10 +149,18 @@
             }
           },
           {
-            "id": "74645cbc73af880c",
+            "id": "6ff6956bd867e117",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "15e9a8be0114e5e9",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
               "state": {}
             }
           }
@@ -166,36 +169,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-matrix:Obsidian Matrix": false,
+      "obsidian-tts:Text to Speech": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-tts:Text to Speech": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cd59ffdb7738f18d",
+  "active": "13c741508554f171",
   "lastOpenFiles": [
+    "contribute/README.md",
+    "contribute/Neues Textdokument.txt",
+    "contribute",
+    "New folder",
+    "git/README.MD",
+    "git/Neues Textdokument.txt",
+    "git",
+    "Academic disciplines/test",
+    "Academic disciplines/New folder",
+    "README.md",
+    "Academic disciplines/Social Science/Archaeology/Grand Pyramid of Giza.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Modal Logic.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Set Theory",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Recursion Theory",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Proof Theory",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Overview of Mathematical Logic and Foundations of Mathematics.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md",
-    "Academic disciplines/Social Science/Archaeology/Grand Pyramid of Giza.md",
-    "HUMMERNUSSBAUM/HummernussbaumEssen.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Propositional Modal Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Predicate Modal Logic.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Temporal Logic/Temporal Logic.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Modal mu-calculus.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Axiomatic Systems and Completeness Results.md",
     "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Dynamic Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
-    "Therooiiephashe 2/Science/Hummer.md"
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Epistemic Logic.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Deontic Logic.md",
+    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Hybrid Logics.md"
   ]
 }
