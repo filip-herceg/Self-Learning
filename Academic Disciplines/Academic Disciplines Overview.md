@@ -1,4 +1,3 @@
-#todo
 | Topic                                                                                       | Description                          |
 | ------------------------------------------------------------------------------------------- | ------------------------------------ |
 | [Applied Science](Academic%20Disciplines/Applied%20Science/Applied%20Science%20Overview.md) | The study of scientific principles to solve practical problems. Examples of applied science include agriculture, engineering, and medicine. |
