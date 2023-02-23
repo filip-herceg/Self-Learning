@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Overview of Applied Mathematics Branches",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Applied mathematics/Overview of Applied Mathematics Branches.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Academic Disciplines/Resources.md"
+    },
+    {
+      "basename": "Fermi Gases",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Fermi Gases.md"
+    },
+    {
+      "basename": "Harmonic Oscillator",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Mechanics/Basic/Harmonic Oscillator.md"
+    },
+    {
+      "basename": "Pure Mathematics Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Pure Mathematics Overview.md"
+    },
+    {
+      "basename": "Fermi Gases",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Atomic, Molecular, and Optical Physics/Basic/Fermi Gases.md"
+    },
+    {
       "basename": "New Desired Tree",
       "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/New Desired Tree.md"
     },
     {
       "basename": "Todo Pure Mathematics",
       "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Todo Pure Mathematics.md"
-    },
-    {
-      "basename": "Overview of Pure Mathematics",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md"
     },
     {
       "basename": "Topology Overview",
@@ -55,14 +75,6 @@
     {
       "basename": "Algebra Overview",
       "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Algebra Overview.md"
-    },
-    {
-      "basename": "Overview of Applied Mathematics Branches",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Applied mathematics/Overview of Applied Mathematics Branches.md"
-    },
-    {
-      "basename": "Harmonic Oscillator",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Mechanics/Basic/Harmonic Oscillator.md"
     },
     {
       "basename": "Neutrino Astronomy",
@@ -187,18 +199,6 @@
     {
       "basename": "Quantum Field Theory in Nonequilibrium",
       "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Field Theory in Nonequilibrium.md"
-    },
-    {
-      "basename": "Many-Body Localization",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Many-Body Localization.md"
-    },
-    {
-      "basename": "Hydrodynamics",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Hydrodynamics.md"
-    },
-    {
-      "basename": "Integrability in Statistical Mechanics",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Integrability in Statistical Mechanics.md"
     }
   ],
   "omittedPaths": [],
