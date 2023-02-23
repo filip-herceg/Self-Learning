@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Applied Science Overview",
+      "path": "Academic Disciplines/Applied Science/Applied Science Overview.md"
+    },
+    {
+      "basename": "Transportation Overview",
+      "path": "Academic Disciplines/Applied Science/Transportation/Transportation Overview.md"
+    },
+    {
+      "basename": "Social Work Overview",
+      "path": "Academic Disciplines/Applied Science/Social Work/Social Work Overview.md"
+    },
+    {
+      "basename": "Public Policy Overview",
+      "path": "Academic Disciplines/Applied Science/Public Policy/Public Policy Overview.md"
+    },
+    {
+      "basename": "Public Administration Overview",
+      "path": "Academic Disciplines/Applied Science/Public Administration/Public Administration Overview.md"
+    },
+    {
+      "basename": "Military Sciences Overview",
+      "path": "Academic Disciplines/Applied Science/Military Sciences/Military Sciences Overview.md"
+    },
+    {
+      "basename": "Medicine and Health Overview",
+      "path": "Academic Disciplines/Applied Science/Medicine and Health/Medicine and Health Overview.md"
+    },
+    {
+      "basename": "Library and Museum Studies Overview",
+      "path": "Academic Disciplines/Applied Science/Library and Museum Studies/Library and Museum Studies Overview.md"
+    },
+    {
+      "basename": "Law Overview",
+      "path": "Academic Disciplines/Applied Science/Law/Law Overview.md"
+    },
+    {
+      "basename": "Journalism, Media Studies and Communication Overview",
+      "path": "Academic Disciplines/Applied Science/Journalism, Media Studies and Communication/Journalism, Media Studies and Communication Overview.md"
+    },
+    {
+      "basename": "Human Physical Performance and Recreation Overview",
+      "path": "Academic Disciplines/Applied Science/Human Physical Performance and Recreation/Human Physical Performance and Recreation Overview.md"
+    },
+    {
+      "basename": "Family and Consumer Science Overview",
+      "path": "Academic Disciplines/Applied Science/Family and Consumer Science/Family and Consumer Science Overview.md"
+    },
+    {
       "basename": "Academic Disciplines Overview",
       "path": "Academic Disciplines/Academic Disciplines Overview.md"
+    },
+    {
+      "basename": "Environmental Studies and Forestry Overview",
+      "path": "Academic Disciplines/Applied Science/Environmental Studies and Forestry/Environmental Studies and Forestry Overview.md"
+    },
+    {
+      "basename": "Engineering and Technology Overview",
+      "path": "Academic Disciplines/Applied Science/Engineering and Technology/Engineering and Technology Overview.md"
+    },
+    {
+      "basename": "Education Overview",
+      "path": "Academic Disciplines/Applied Science/Education/Education Overview.md"
+    },
+    {
+      "basename": "Divinity Overview",
+      "path": "Academic Disciplines/Applied Science/Divinity/Divinity Overview.md"
+    },
+    {
+      "basename": "Business Overview",
+      "path": "Academic Disciplines/Applied Science/Business/Business Overview.md"
+    },
+    {
+      "basename": "Architecture and Design Overview",
+      "path": "Academic Disciplines/Applied Science/Architecture and Design/Architecture and Design Overview.md"
+    },
+    {
+      "basename": "Agriculture Overview",
+      "path": "Academic Disciplines/Applied Science/Agriculture/Agriculture Overview.md"
     },
     {
       "basename": "Social Science Overview",
@@ -19,10 +95,6 @@
     {
       "basename": "Formal Science Overview",
       "path": "Academic Disciplines/Formal Science/Formal Science Overview.md"
-    },
-    {
-      "basename": "Applied Science Overview",
-      "path": "Academic Disciplines/Applied Science/Applied Science Overview.md"
     },
     {
       "basename": "Self-Learning Overview",
@@ -127,78 +199,6 @@
     {
       "basename": "Star Formation",
       "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Star Formation.md"
-    },
-    {
-      "basename": "Magnetohydrodynamics",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Magnetohydrodynamics.md"
-    },
-    {
-      "basename": "Accretion Discs",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Accretion Discs.md"
-    },
-    {
-      "basename": "Large Scale Structure",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Large Scale Structure.md"
-    },
-    {
-      "basename": "Reionization",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Reionization.md"
-    },
-    {
-      "basename": "Intergalactic Medium",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Intergalactic Medium.md"
-    },
-    {
-      "basename": "Galaxy Clusters",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Galaxy Clusters.md"
-    },
-    {
-      "basename": "High Energy Astrophysics",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/High Energy Astrophysics.md"
-    },
-    {
-      "basename": "Gravitational Waves",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Gravitational Waves.md"
-    },
-    {
-      "basename": "Gamma-Ray Bursts",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Gamma-Ray Bursts.md"
-    },
-    {
-      "basename": "Pulsars",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Pulsars.md"
-    },
-    {
-      "basename": "Supernovae",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Supernovae.md"
-    },
-    {
-      "basename": "Cosmic Microwave Background Radiation",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Cosmic Microwave Background Radiation.md"
-    },
-    {
-      "basename": "Cosmology",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Cosmology.md"
-    },
-    {
-      "basename": "Active Galactic Nuclei",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Active Galactic Nuclei.md"
-    },
-    {
-      "basename": "Dark Matter",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Dark Matter.md"
-    },
-    {
-      "basename": "Galaxy Formation and Evolution",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Galaxy Formation and Evolution.md"
-    },
-    {
-      "basename": "Black Holes",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Black Holes.md"
-    },
-    {
-      "basename": "Neutron Stars",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Neutron Stars.md"
     }
   ],
   "omittedPaths": [],
