@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Academic Disciplines Overview",
+      "path": "Academic Disciplines/Academic Disciplines Overview.md"
+    },
+    {
+      "basename": "Social Science Overview",
+      "path": "Academic Disciplines/Social Science/Social Science Overview.md"
+    },
+    {
+      "basename": "Natural Science Overview",
+      "path": "Academic Disciplines/Natural Science/Natural Science Overview.md"
+    },
+    {
+      "basename": "Humanities Overview",
+      "path": "Academic Disciplines/Humanities/Humanities Overview.md"
+    },
+    {
+      "basename": "Formal Science Overview",
+      "path": "Academic Disciplines/Formal Science/Formal Science Overview.md"
+    },
+    {
+      "basename": "Applied Science Overview",
+      "path": "Academic Disciplines/Applied Science/Applied Science Overview.md"
+    },
+    {
       "basename": "Self-Learning Overview",
       "path": "Self-Learning Overview.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "How to Contribute to Self-Learning",
+      "path": "Contribute/How to Contribute to Self-Learning.md"
     },
     {
       "basename": "Resources",
@@ -171,34 +199,6 @@
     {
       "basename": "Neutron Stars",
       "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Neutron Stars.md"
-    },
-    {
-      "basename": "White Dwarfs",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/White Dwarfs.md"
-    },
-    {
-      "basename": "Stellar Evolution",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Stellar Evolution.md"
-    },
-    {
-      "basename": "Stars",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Stars.md"
-    },
-    {
-      "basename": "Astrophysics Overview",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Astrophysics Overview.md"
-    },
-    {
-      "basename": "Glassy Systems",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Glassy Systems.md"
-    },
-    {
-      "basename": "Quantum Criticality",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Criticality.md"
-    },
-    {
-      "basename": "Quantum Enganglement and Thermalization",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Enganglement and Thermalization.md"
     }
   ],
   "omittedPaths": [],
