@@ -1,128 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Academic Disciplines Overview",
-      "path": "Academic Disciplines/Academic Disciplines Overview.md"
+      "basename": "Neutrino Astronomy",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Cosmic Rays and Magnetic Fields",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Cosmic Rays and Magnetic Fields.md"
     },
     {
-      "basename": "Social Work Overview",
-      "path": "Academic Disciplines/Social Science/Social Work/Social Work Overview.md"
+      "basename": "High-Redshift Galaxies",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/High-Redshift Galaxies.md"
     },
     {
-      "basename": "Political Science Overview",
-      "path": "Academic Disciplines/Social Science/Political Science/Political Science Overview.md"
+      "basename": "Exoplanets",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Exoplanets.md"
     },
     {
-      "basename": "Geography Overview",
-      "path": "Academic Disciplines/Social Science/Geography/Geography Overview.md"
+      "basename": "Star Formation",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Star Formation.md"
     },
     {
-      "basename": "Economics Overview",
-      "path": "Academic Disciplines/Social Science/Economics/Economics Overview.md"
+      "basename": "Magnetohydrodynamics",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Magnetohydrodynamics.md"
     },
     {
-      "basename": "Archaeology Overview",
-      "path": "Academic Disciplines/Social Science/Archaeology/Archaeology Overview.md"
+      "basename": "Accretion Discs",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Accretion Discs.md"
     },
     {
-      "basename": "Anthropology Overview",
-      "path": "Academic Disciplines/Social Science/Anthropology/Anthropology Overview.md"
+      "basename": "Large Scale Structure",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Large Scale Structure.md"
     },
     {
-      "basename": "Social Science Overview",
-      "path": "Academic Disciplines/Social Science/Social Science Overview.md"
+      "basename": "Reionization",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Reionization.md"
     },
     {
-      "basename": "Earth Science Overview",
-      "path": "Academic Disciplines/Natural science/Earth Science/Earth Science Overview.md"
+      "basename": "Intergalactic Medium",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Intergalactic Medium.md"
     },
     {
-      "basename": "Chemistry Overview",
-      "path": "Academic Disciplines/Natural science/Chemistry/Chemistry Overview.md"
+      "basename": "Galaxy Clusters",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Galaxy Clusters.md"
     },
     {
-      "basename": "Biology Overview",
-      "path": "Academic Disciplines/Natural science/Biology/Biology Overview.md"
+      "basename": "High Energy Astrophysics",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/High Energy Astrophysics.md"
     },
     {
-      "basename": "Astronomy Overview",
-      "path": "Academic Disciplines/Natural science/Astronomy/Astronomy Overview.md"
+      "basename": "Gravitational Waves",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Gravitational Waves.md"
     },
     {
-      "basename": "History Overview",
-      "path": "Academic Disciplines/Humanities/History/History Overview.md"
+      "basename": "Gamma-Ray Bursts",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Gamma-Ray Bursts.md"
     },
     {
-      "basename": "Humanities Overview",
-      "path": "Academic Disciplines/Humanities/Humanities Overview.md"
+      "basename": "Pulsars",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Pulsars.md"
     },
     {
-      "basename": "Theology Overview",
-      "path": "Academic Disciplines/Humanities/Theology/Theology Overview.md"
+      "basename": "Supernovae",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Supernovae.md"
     },
     {
-      "basename": "Religion Studies Overview",
-      "path": "Academic Disciplines/Humanities/Religious Studies/Religion Studies Overview.md"
+      "basename": "Cosmic Microwave Background Radiation",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Cosmic Microwave Background Radiation.md"
     },
     {
-      "basename": "Philosophy Overview",
-      "path": "Academic Disciplines/Humanities/Philosophy/Philosophy Overview.md"
+      "basename": "Cosmology",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Cosmology.md"
     },
     {
-      "basename": "Performing Arts Overview",
-      "path": "Academic Disciplines/Humanities/Performing Arts/Performing Arts Overview.md"
+      "basename": "Active Galactic Nuclei",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Active Galactic Nuclei.md"
     },
     {
-      "basename": "Law Overview",
-      "path": "Academic Disciplines/Humanities/Law/Law Overview.md"
+      "basename": "Dark Matter",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Dark Matter.md"
     },
     {
-      "basename": "Languages and Literature Overview",
-      "path": "Academic Disciplines/Humanities/Languages and Literature/Languages and Literature Overview.md"
+      "basename": "Galaxy Formation and Evolution",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Galaxy Formation and Evolution.md"
     },
     {
-      "basename": "Todo Pure Mathematics",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Todo Pure Mathematics.md"
+      "basename": "Black Holes",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Black Holes.md"
     },
     {
-      "basename": "Number Theory",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Number Theory/Number Theory.md"
+      "basename": "Neutron Stars",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Neutron Stars.md"
     },
     {
-      "basename": "Overview of Mathematical Logic and Foundations of Mathematics",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Overview of Mathematical Logic and Foundations of Mathematics.md"
+      "basename": "White Dwarfs",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/White Dwarfs.md"
     },
     {
-      "basename": "Recursion Theory",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Recursion Theory/Recursion Theory.md"
+      "basename": "Stellar Evolution",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Stellar Evolution.md"
     },
     {
-      "basename": "Proof Theory",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Proof Theory/Proof Theory.md"
+      "basename": "Stars",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Stars.md"
     },
     {
-      "basename": "Modal Theory",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Model Theory/Modal Theory.md"
+      "basename": "Astrophysics Overview",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Astrophysics Overview.md"
     },
     {
-      "basename": "Overview of Pure Mathematics",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md"
+      "basename": "Glassy Systems",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Glassy Systems.md"
     },
     {
-      "basename": "Arithmetic",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Arithmetic/Arithmetic.md"
+      "basename": "Quantum Criticality",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Criticality.md"
     },
     {
-      "basename": "Algebra",
-      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Algebra.md"
+      "basename": "Quantum Enganglement and Thermalization",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Enganglement and Thermalization.md"
     },
     {
-      "basename": "Humanities Overview",
-      "path": "Academic disciplines/Humanities/Humanities Overview.md"
+      "basename": "Quantum Field Theory in Nonequilibrium",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Field Theory in Nonequilibrium.md"
+    },
+    {
+      "basename": "Many-Body Localization",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Many-Body Localization.md"
+    },
+    {
+      "basename": "Hydrodynamics",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Hydrodynamics.md"
+    },
+    {
+      "basename": "Integrability in Statistical Mechanics",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Integrability in Statistical Mechanics.md"
+    },
+    {
+      "basename": "Topological Phases of Matter",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Topological Phases of Matter.md"
+    },
+    {
+      "basename": "Renormalization Group",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Renormalization Group.md"
+    },
+    {
+      "basename": "Stochastic Processes",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Stochastic Processes.md"
+    },
+    {
+      "basename": "Non-Equilibrium Thermodynamics",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Non-Equilibrium Thermodynamics.md"
+    },
+    {
+      "basename": "Bose-Einstein Condensation",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Bose-Einstein Condensation.md"
+    },
+    {
+      "basename": "Fermi Gases",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Fermi Gases.md"
+    },
+    {
+      "basename": "Ising Model",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Ising Model.md"
+    },
+    {
+      "basename": "Spin Systems",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Spin Systems.md"
+    },
+    {
+      "basename": "Critical Phenomena",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Critical Phenomena.md"
+    },
+    {
+      "basename": "Phase Transitions",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Phase Transitions.md"
+    },
+    {
+      "basename": "Quantum Statistical Mechanics",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Quantum Statistical Mechanics.md"
+    },
+    {
+      "basename": "Grand Canonical Ensemble",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Grand Canonical Ensemble.md"
+    },
+    {
+      "basename": "Canonical Ensemble",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Canonical Ensemble.md"
+    },
+    {
+      "basename": "Microanonical Ensemble",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Microanonical Ensemble.md"
+    },
+    {
+      "basename": "Maxwell's Demon",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Maxwell's Demon.md"
+    },
+    {
+      "basename": "Kinetic Theory of Gases",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Kinetic Theory of Gases.md"
     }
   ],
   "omittedPaths": [],

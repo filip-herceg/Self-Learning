@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFlask",
       "RiQuestionMark",
       "FasLaptop",
       "FasCalculator",
@@ -19,8 +20,7 @@
       "FasClock",
       "FasMeteor",
       "FasShuttleSpace",
-      "FasEarthEurope",
-      "FasDog"
+      "FasEarthEurope"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -53,5 +53,6 @@
   "Academic Disciplines/Humanities/Visual Arts": "FasCamera",
   "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md": "RiQuestionMark",
   "Academic Disciplines/Natural Science/Physics": "FasShuttleSpace",
-  "Academic Disciplines/Formal Science/Mathematics/Applied Mathematics/Overview of Applied Mathematics Branches.md": "RiQuestionMark"
+  "Academic Disciplines/Formal Science/Mathematics/Applied Mathematics/Overview of Applied Mathematics Branches.md": "RiQuestionMark",
+  "Academic Disciplines/Natural science": "FasFlask"
 }
