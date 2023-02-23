@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Self-Learning Overview",
+      "path": "Self-Learning Overview.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Resources",
       "path": "Academic Disciplines/Resources.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Quantum Enganglement and Thermalization",
       "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Enganglement and Thermalization.md"
-    },
-    {
-      "basename": "Quantum Field Theory in Nonequilibrium",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Quantum Field Theory in Nonequilibrium.md"
     }
   ],
   "omittedPaths": [],

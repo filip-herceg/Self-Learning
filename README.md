@@ -13,6 +13,6 @@ Self-Learning covers a wide range of academic topics, from computer science to m
 
 ## How can I get started?
 
-To get started with Self-Learning, simply navigate to the root folder of the project and browse the available topics. Each page is a markdown file that can be viewed directly in your browser. If you find a page that could use improvement or would like to contribute a new page, visit the ./contribute folder and read the [README.md](How%20to%20Contribute%20to%20Self-Learning.md) file for instructions.
+To get started with Self-Learning, simply navigate to the root folder of the project and browse the available topics or visit [Self-Learning Overview](./Self-Learning%20Overview). Each page is a markdown file that can be viewed directly in your browser. If you find a page that could use improvement or would like to contribute a new page, visit the ./contribute folder and read the [README.md](How%20to%20Contribute%20to%20Self-Learning.md) file for instructions.
 
 Thank you for your interest in Self-Learning, and happy learning!

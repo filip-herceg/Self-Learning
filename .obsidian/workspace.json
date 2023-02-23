@@ -11,6 +11,37 @@
             "id": "0a4b7d857f019fb1",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Learning Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dcb82b1a1b29265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Learning Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f2ed9770ff57e47a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e902ad0af2f825",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -184,8 +215,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a4b7d857f019fb1",
+  "active": "f6e902ad0af2f825",
   "lastOpenFiles": [
+    "Self-Learning Overview.md",
+    "README.md",
     "Academic Disciplines/Formal Science/Mathematics/Applied mathematics/Overview of Applied Mathematics Branches.md",
     "Academic Disciplines/Resources.md",
     "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Fermi Gases.md",
@@ -219,8 +252,6 @@
     "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Basic",
     "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Topos theory.md",
     "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Epistemic Logic.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Cosmic Rays and Magnetic Fields.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/High-Redshift Galaxies.md"
+    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md"
   ]
 }
