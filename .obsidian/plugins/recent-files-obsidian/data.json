@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "New Desired Tree",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/New Desired Tree.md"
+    },
+    {
+      "basename": "Todo Pure Mathematics",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Todo Pure Mathematics.md"
+    },
+    {
+      "basename": "Overview of Pure Mathematics",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md"
+    },
+    {
+      "basename": "Topology Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Topology/Topology Overview.md"
+    },
+    {
+      "basename": "Statistics Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Statistics/Statistics Overview.md"
+    },
+    {
+      "basename": "Probability Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Probability/Probability Overview.md"
+    },
+    {
+      "basename": "Others Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Others/Others Overview.md"
+    },
+    {
+      "basename": "Number Theory",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Number Theory/Number Theory.md"
+    },
+    {
+      "basename": "Logic Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Logic/Logic Overview.md"
+    },
+    {
+      "basename": "Geometry Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Geometry/Geometry Overview.md"
+    },
+    {
+      "basename": "Combinatorics Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Combinatorics/Combinatorics Overview.md"
+    },
+    {
+      "basename": "Arithmetic Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Arithmetic/Arithmetic Overview.md"
+    },
+    {
+      "basename": "Analysis Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Analysis/Analysis Overview.md"
+    },
+    {
+      "basename": "Algebra Overview",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Algebra Overview.md"
+    },
+    {
+      "basename": "Overview of Applied Mathematics Branches",
+      "path": "Academic Disciplines/Formal Science/Mathematics/Applied mathematics/Overview of Applied Mathematics Branches.md"
+    },
+    {
+      "basename": "Harmonic Oscillator",
+      "path": "Academic Disciplines/Natural science/Physics/Topics/Mechanics/Basic/Harmonic Oscillator.md"
+    },
+    {
       "basename": "Neutrino Astronomy",
       "path": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Integrability in Statistical Mechanics",
       "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Integrability in Statistical Mechanics.md"
-    },
-    {
-      "basename": "Topological Phases of Matter",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert/Topological Phases of Matter.md"
-    },
-    {
-      "basename": "Renormalization Group",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Renormalization Group.md"
-    },
-    {
-      "basename": "Stochastic Processes",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Stochastic Processes.md"
-    },
-    {
-      "basename": "Non-Equilibrium Thermodynamics",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Non-Equilibrium Thermodynamics.md"
-    },
-    {
-      "basename": "Bose-Einstein Condensation",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Bose-Einstein Condensation.md"
-    },
-    {
-      "basename": "Fermi Gases",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Fermi Gases.md"
-    },
-    {
-      "basename": "Ising Model",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Ising Model.md"
-    },
-    {
-      "basename": "Spin Systems",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Spin Systems.md"
-    },
-    {
-      "basename": "Critical Phenomena",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Critical Phenomena.md"
-    },
-    {
-      "basename": "Phase Transitions",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced/Phase Transitions.md"
-    },
-    {
-      "basename": "Quantum Statistical Mechanics",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Quantum Statistical Mechanics.md"
-    },
-    {
-      "basename": "Grand Canonical Ensemble",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Grand Canonical Ensemble.md"
-    },
-    {
-      "basename": "Canonical Ensemble",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Canonical Ensemble.md"
-    },
-    {
-      "basename": "Microanonical Ensemble",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Microanonical Ensemble.md"
-    },
-    {
-      "basename": "Maxwell's Demon",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Maxwell's Demon.md"
-    },
-    {
-      "basename": "Kinetic Theory of Gases",
-      "path": "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic/Kinetic Theory of Gases.md"
     }
   ],
   "omittedPaths": [],

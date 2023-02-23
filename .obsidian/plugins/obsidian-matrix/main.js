@@ -78,6 +78,39 @@ var _CreationModal = class extends import_obsidian2.Modal {
     this.matrixWidth = 2;
     this.matrixHeight = 2;
     this.selectedMatrix = "Plain (matrix)";
+    this.MAX_WIDTH = 10;
+    this.MAX_HEIGHT = 10;
+    this.keyEventHandler = (evt) => {
+      const widthSliderComponent = this.widthSlider.components[0];
+      const heightSliderComponent = this.heightSlider.components[0];
+      if (evt.key == "Enter") {
+        this.constructOutput();
+      } else if (evt.key == "ArrowRight" && evt.altKey && this.matrixWidth < this.MAX_WIDTH) {
+        this.matrixWidth += 1;
+        widthSliderComponent.setValue(this.matrixWidth);
+        this.regenerateMatrix();
+        const firstTextBox = this.matrixDiv.children[0];
+        firstTextBox.focus();
+      } else if (evt.key == "ArrowLeft" && evt.altKey && this.matrixWidth > 1) {
+        this.matrixWidth -= 1;
+        widthSliderComponent.setValue(this.matrixWidth);
+        this.regenerateMatrix();
+        const firstTextBox = this.matrixDiv.children[0];
+        firstTextBox.focus();
+      } else if (evt.key == "ArrowUp" && evt.altKey && this.matrixHeight > 1) {
+        this.matrixHeight -= 1;
+        heightSliderComponent.setValue(this.matrixHeight);
+        this.regenerateMatrix();
+        const firstTextBox = this.matrixDiv.children[0];
+        firstTextBox.focus();
+      } else if (evt.key == "ArrowDown" && evt.altKey && this.matrixHeight < this.MAX_HEIGHT) {
+        this.matrixHeight += 1;
+        heightSliderComponent.setValue(this.matrixHeight);
+        this.regenerateMatrix();
+        const firstTextBox = this.matrixDiv.children[0];
+        firstTextBox.focus();
+      }
+    };
     this.parentPlugin = plugin;
   }
   onOpen() {
@@ -94,14 +127,14 @@ var _CreationModal = class extends import_obsidian2.Modal {
         this.selectedMatrix = this.parentPlugin.settings.lastUsedMatrix;
       }
     });
-    new import_obsidian2.Setting(this.settingsDiv).setName("Matrix width").addSlider((slider) => {
+    this.widthSlider = new import_obsidian2.Setting(this.settingsDiv).setName("Matrix width").addSlider((slider) => {
       if (this.parentPlugin.settings.rememberMatrixDimensions) {
         slider.setValue(this.parentPlugin.settings.prevX == null ? 2 : this.parentPlugin.settings.prevX);
         this.matrixWidth = this.parentPlugin.settings.prevX == null ? 2 : this.parentPlugin.settings.prevX;
       } else {
         slider.setValue(2);
       }
-      slider.setLimits(1, 10, 1);
+      slider.setLimits(1, this.MAX_WIDTH, 1);
       slider.showTooltip();
       slider.setDynamicTooltip();
       slider.onChange((value) => {
@@ -109,14 +142,14 @@ var _CreationModal = class extends import_obsidian2.Modal {
         this.regenerateMatrix();
       });
     });
-    new import_obsidian2.Setting(this.settingsDiv).setName("Matrix height").addSlider((slider) => {
+    this.heightSlider = new import_obsidian2.Setting(this.settingsDiv).setName("Matrix height").addSlider((slider) => {
       if (this.parentPlugin.settings.rememberMatrixDimensions) {
         slider.setValue(this.parentPlugin.settings.prevY == null ? 2 : this.parentPlugin.settings.prevY);
         this.matrixHeight = this.parentPlugin.settings.prevY == null ? 2 : this.parentPlugin.settings.prevY;
       } else {
         slider.setValue(2);
       }
-      slider.setLimits(1, 10, 1);
+      slider.setLimits(1, this.MAX_HEIGHT, 1);
       slider.showTooltip();
       slider.setDynamicTooltip();
       slider.onChange((value) => {
@@ -128,43 +161,47 @@ var _CreationModal = class extends import_obsidian2.Modal {
       button.setIcon("checkmark");
       button.setCta();
       button.onClick(() => {
-        if (this.parentPlugin.settings.rememberMatrixType) {
-          this.parentPlugin.settings.lastUsedMatrix = this.selectedMatrix;
-          this.parentPlugin.saveSettings();
-        }
-        if (this.parentPlugin.settings.rememberMatrixDimensions) {
-          this.parentPlugin.settings.prevX = this.matrixWidth;
-          this.parentPlugin.settings.prevY = this.matrixHeight;
-          this.parentPlugin.saveSettings();
-        }
-        const chunks = Array.from(this.matrixDiv.children).map((child) => {
-          return child.value;
-        }).reduce((resultArray, item, index) => {
-          const chunkIndex = Math.floor(index / this.matrixWidth);
-          if (!resultArray[chunkIndex]) {
-            resultArray[chunkIndex] = [];
-          }
-          resultArray[chunkIndex].push(item);
-          return resultArray;
-        }, []);
-        const latexString = chunks.map((chunk) => {
-          return chunk.join(" & ");
-        }).join(this.parentPlugin.settings.inline ? " \\\\" : " \\\\\n");
-        if (this.parentPlugin.settings.inline) {
-          this.writeAtCursor(`\\begin{${_CreationModal.matrixTypes[this.selectedMatrix]}}${latexString}\\end{${_CreationModal.matrixTypes[this.selectedMatrix]}}`);
-        } else {
-          this.writeAtCursor(`\\begin{${_CreationModal.matrixTypes[this.selectedMatrix]}}
-${latexString}
-\\end{${_CreationModal.matrixTypes[this.selectedMatrix]}}`);
-        }
-        this.close();
+        this.constructOutput();
       });
     });
+    this.parentDiv.addEventListener("keyup", this.keyEventHandler);
     this.createInputs();
     this.applyCorrectStyle();
   }
   onClose() {
     this.contentEl.empty();
+  }
+  constructOutput() {
+    if (this.parentPlugin.settings.rememberMatrixType) {
+      this.parentPlugin.settings.lastUsedMatrix = this.selectedMatrix;
+      this.parentPlugin.saveSettings();
+    }
+    if (this.parentPlugin.settings.rememberMatrixDimensions) {
+      this.parentPlugin.settings.prevX = this.matrixWidth;
+      this.parentPlugin.settings.prevY = this.matrixHeight;
+      this.parentPlugin.saveSettings();
+    }
+    const chunks = Array.from(this.matrixDiv.children).map((child) => {
+      return child.value;
+    }).reduce((resultArray, item, index) => {
+      const chunkIndex = Math.floor(index / this.matrixWidth);
+      if (!resultArray[chunkIndex]) {
+        resultArray[chunkIndex] = [];
+      }
+      resultArray[chunkIndex].push(item);
+      return resultArray;
+    }, []);
+    const latexString = chunks.map((chunk) => {
+      return chunk.join(" & ");
+    }).join(this.parentPlugin.settings.inline ? " \\\\" : " \\\\\n");
+    if (this.parentPlugin.settings.inline) {
+      this.writeAtCursor(`\\begin{${_CreationModal.matrixTypes[this.selectedMatrix]}}${latexString}\\end{${_CreationModal.matrixTypes[this.selectedMatrix]}}`);
+    } else {
+      this.writeAtCursor(`\\begin{${_CreationModal.matrixTypes[this.selectedMatrix]}}
+${latexString}
+\\end{${_CreationModal.matrixTypes[this.selectedMatrix]}}`);
+    }
+    this.close();
   }
   createHTML() {
     this.parentDiv = this.contentEl.createEl("div", { cls: "parentDiv" });

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa42dd276bd1c86",
+        "id": "0e3d7de9e9f498c6",
         "type": "tabs",
         "children": [
           {
-            "id": "17ea72335d6cf46a",
+            "id": "0a4b7d857f019fb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/New Desired Tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md",
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/New Desired Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md",
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/New Desired Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md"
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/New Desired Tree.md"
               }
             }
           },
@@ -178,53 +182,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e394d9a4dc3e5502",
+  "active": "0a4b7d857f019fb1",
   "lastOpenFiles": [
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Cosmic Rays and Magnetic Fields.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Todo Pure Mathematics.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Topology/Untitled.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Topology/Topology Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Statistics/Statistics Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Probability/Probability Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Others/Others Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Number Theory/Number Theory.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Logic/Logic Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Geometry/Geometry Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Combinatorics/Combinatorics Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Arithmetic/Arithmetic Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Analysis/Analysis Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Algebra Overview.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/New Desired Tree.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Others",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Topology",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Statistics",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Probability",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Logic",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Geometry",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Combinatorics",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Expert",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Advanced",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Basic",
+    "Academic Disciplines/Formal Science/Mathematics/Applied mathematics/Overview of Applied Mathematics Branches.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Topos theory.md",
+    "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Epistemic Logic.md",
+    "Academic Disciplines/Natural science/Physics/Topics/Mechanics/Basic/Harmonic Oscillator.md",
     "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Neutrino Astronomy.md",
+    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Cosmic Rays and Magnetic Fields.md",
     "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/High-Redshift Galaxies.md",
     "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Exoplanets.md",
     "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Star Formation.md",
     "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Magnetohydrodynamics.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Accretion Discs.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Large Scale Structure.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Reionization.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Intergalactic Medium.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Galaxy Clusters.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/High Energy Astrophysics.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Gravitational Waves.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Gamma-Ray Bursts.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Pulsars.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced/Supernovae.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Cosmic Microwave Background Radiation.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Cosmology.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Active Galactic Nuclei.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Dark Matter.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Galaxy Formation and Evolution.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Black Holes.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Neutron Stars.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/White Dwarfs.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Stellar Evolution.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic/Stars.md",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Advanced",
-    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Basic",
-    "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Expert",
-    "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Advanced",
-    "Academic Disciplines/Natural science/Physics/Topics/Thermodynamics and Statistical Mechanics/Basic",
-    "Academic Disciplines/Natural science/Physics/Topics/Theory of Relativity/Expert",
-    "Academic Disciplines/Natural science/Physics/Topics/Theory of Relativity/Advanced",
-    "Academic Disciplines/Natural science/Physics/Topics/Theory of Relativity/Basic",
-    "Academic Disciplines/Natural science/Physics/Topics/Atomic, Molecular, and Optical Physics/Expert"
+    "Academic Disciplines/Natural science/Physics/Topics/Astrophysics/Expert/Accretion Discs.md"
   ]
 }
