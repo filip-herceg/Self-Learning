@@ -4,29 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9703be60fb6a620e",
+        "id": "47661da59e369cea",
         "type": "tabs",
         "children": [
           {
-            "id": "aabbe6e005c11069",
+            "id": "06cd5ce466c42d58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "13c741508554f171",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md"
+              }
             }
           },
           {
@@ -165,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,35 +181,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "13c741508554f171",
+  "active": "06cd5ce466c42d58",
   "lastOpenFiles": [
+    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/Tree/Installation.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/README.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Branching.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Committing.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Merging.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Pushing.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Pulling.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Rebasing.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Cherry-Picking.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Git-Flow.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Hooks.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Submodules.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Workflows.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line/README.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/README.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/README.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/Tree/README.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line/Git bash/README.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/File Management",
+    "Academic disciplines/Formal Science/Computer Science/Tools/git/Examples/Game-Development/README.md.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control",
+    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/Tree",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line/Git bash",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Examples/README.md",
+    "Academic disciplines/Formal Science/Computer Science/Tools/git/Examples/Web-Development",
+    "Academic disciplines/Formal Science/Computer Science/Tools/git/Examples/Game-Development",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Examples",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced",
+    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics",
+    "contribute/git/Git Contribution Guidelines.md",
     "contribute/README.md",
-    "contribute/Neues Textdokument.txt",
-    "contribute",
-    "New folder",
-    "git/README.MD",
-    "git/Neues Textdokument.txt",
-    "git",
-    "Academic disciplines/test",
-    "Academic disciplines/New folder",
-    "README.md",
-    "Academic disciplines/Social Science/Archaeology/Grand Pyramid of Giza.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Modal Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Set Theory",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Recursion Theory",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Proof Theory",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Overview of Mathematical Logic and Foundations of Mathematics.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Temporal Logic/Temporal Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Modal mu-calculus.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Axiomatic Systems and Completeness Results.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Dynamic Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Epistemic Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Deontic Logic.md",
-    "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Modal Logic/Hybrid Logics.md"
+    "contribute/git/PR_TEMPLATE.md",
+    "contribute/CONTRIBUTING.md",
+    "contribute/STYLE_GUIDE.md",
+    "contribute/TOPICS.md"
   ]
 }
