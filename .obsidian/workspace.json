@@ -4,22 +4,395 @@
     "type": "split",
     "children": [
       {
-        "id": "47661da59e369cea",
+        "id": "2984efca8ed744ef",
         "type": "tabs",
         "children": [
           {
-            "id": "06cd5ce466c42d58",
+            "id": "cf840ac500fd5623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Algebra/Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e81f6bfd0075f761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Analysis/Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27298bd7ac110cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Arithmetic/Arithmetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06cd78e157dbf7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Overview of Pure Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3b6363ce0eae01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Todo Pure Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64ec7cd0c621373e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Model Theory/Modal Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b121b520b2e00af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Proof Theory/Proof Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5451950bdbe3e453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Recursion Theory/Recursion Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f00e87938f497f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Overview of Mathematical Logic and Foundations of Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b82a167433ab26f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Number Theory/Number Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "189b8a284a8660ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Formal Science/Mathematics/Pure Mathematics/Todo Pure Mathematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "addd79c4f35d3015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/Languages and Literature/Languages and Literature Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4822ad9fbfa6e51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/Law/Law Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a42a5a182a92bcf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/Performing Arts/Performing Arts Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da7ad65d8a867e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/Philosophy/Philosophy Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faf16175f336aefe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/Religious Studies/Religion Studies Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f94fb283bacca72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/Theology/Theology Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15d7e56539ed42fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/Humanities Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e5b6bd8d044b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Humanities/History/History Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54ec952c0864f792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Natural science/Astronomy/Astronomy Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f35207ed95bcbde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Natural science/Biology/Biology Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "993cfbc14a714ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Natural science/Chemistry/Chemistry Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dc43a55a3651bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Natural science/Earth Science/Earth Science Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f8f161deaec955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Social Science/Social Science Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1905c992d670ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Social Science/Anthropology/Anthropology Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af54354109bdaba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Social Science/Archaeology/Archaeology Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f9a7a7ef6d98fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Social Science/Economics/Economics Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa73d365f03afc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Social Science/Geography/Geography Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7cddac6e25161fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Social Science/Political Science/Political Science Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e9d57d1a4dd0bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Social Science/Social Work/Social Work Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6de6da211bf2eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8781004f6338f39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Disciplines/Academic Disciplines Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -65,8 +438,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +458,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
+                "file": "Academic Disciplines/Academic Disciplines Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +475,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md",
+                "file": "Academic Disciplines/Academic Disciplines Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +488,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -126,7 +498,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic disciplines/Formal Science/Mathematics/Pure Mathematics/Mathematical Logic and Foundations of Mathematics/Intuitionistic Logic/Intuitionistic Logic.md"
+                "file": "Academic Disciplines/Academic Disciplines Overview.md"
               }
             }
           },
@@ -167,7 +539,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,43 +558,43 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "06cd5ce466c42d58",
+  "active": "e394d9a4dc3e5502",
   "lastOpenFiles": [
-    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/Tree/Installation.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/README.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Branching.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Committing.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Merging.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Pushing.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Pulling.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics/Rebasing.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Cherry-Picking.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Git-Flow.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Hooks.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Submodules.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced/Workflows.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line/README.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/README.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/README.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/Tree/README.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line/Git bash/README.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/File Management",
-    "Academic disciplines/Formal Science/Computer Science/Tools/git/Examples/Game-Development/README.md.md",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control",
-    "Academic disciplines/Formal Science/Computer Science/Tools/File Management/Tree",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Command Line/Git bash",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Examples/README.md",
+    "Academic Disciplines/Resources.md",
+    "Academic Disciplines/Academic Disciplines Overview.md",
+    "README.md",
+    "Contribute/TOPICS.md",
+    "Contribute/STYLE_GUIDE.md",
+    "Contribute/How to Contribute to Self-Learning.md",
+    "Contribute/git/PR_TEMPLATE.md",
+    "Contribute/git/Git Contribution Guidelines.md",
+    "Academic Disciplines/Social Science/Sociology/Sociology Overview.md",
+    "Academic Disciplines/Social Science/Social Work/Social Work Overview.md",
+    "Academic Disciplines/Social Science/Political Science/Political Science Overview.md",
+    "Academic Disciplines/Social Science/Geography/Geography Overview.md",
+    "Academic Disciplines/Social Science/Economics/Economics Overview.md",
+    "Academic Disciplines/Social Science/Archaeology/Archaeology Overview.md",
+    "Academic Disciplines/Social Science/Anthropology/Anthropology Overview.md",
+    "Academic Disciplines/Social Science/Social Science Overview.md",
+    "Academic Disciplines/Natural science/Earth Science/Earth Science Overview.md",
+    "Academic Disciplines/Natural science/Chemistry/Chemistry Overview.md",
+    "Academic Disciplines/Natural science/Biology/Biology Overview.md",
+    "Academic Disciplines/Natural science/Astronomy/Astronomy Overview.md",
+    "Academic Disciplines/Humanities/History/History Overview.md",
+    "Academic Disciplines/Humanities/Humanities Overview.md",
+    "Academic Disciplines/Humanities/Visual Arts/Visual Arts Overview.md",
+    "Academic Disciplines/Humanities/Theology/Theology Overview.md",
+    "Academic Disciplines/Humanities/Religious Studies/Religion Studies Overview.md",
+    "Academic Disciplines/Humanities/Philosophy/Philosophy Overview.md",
+    "Academic Disciplines/Formal Science/Computer Science/Tools/File Management",
+    "Academic Disciplines/Formal Science/Computer Science/Tools/Command Line",
+    "Academic Disciplines/Formal Science/Computer Science/Tools/Version Control",
+    "Academic Disciplines/Formal Science/Computer Science/Tools/File Management/Tree",
+    "Academic Disciplines/Formal Science/Computer Science/Tools/Command Line/Git Bash",
     "Academic disciplines/Formal Science/Computer Science/Tools/git/Examples/Web-Development",
     "Academic disciplines/Formal Science/Computer Science/Tools/git/Examples/Game-Development",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Examples",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced",
-    "Academic disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics",
-    "contribute/git/Git Contribution Guidelines.md",
-    "contribute/README.md",
-    "contribute/git/PR_TEMPLATE.md",
-    "contribute/CONTRIBUTING.md",
-    "contribute/STYLE_GUIDE.md",
-    "contribute/TOPICS.md"
+    "Academic Disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Examples",
+    "Academic Disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Advanced",
+    "Academic Disciplines/Formal Science/Computer Science/Tools/Version Control/Git/Basics"
   ]
 }

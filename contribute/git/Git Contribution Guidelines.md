@@ -67,7 +67,7 @@ When updating your branch with changes from the original repository, it is recom
 ## Conclusion
 
 These guidelines should provide a solid foundation for contributing to the Self-Learning project using Git.
-For more information on working with git, please visit (git Overview)[].
+For more information on working with git, please visit [git Overview](Git%20Overview.md).
 
 # Automatically add all empty folders in git repository
 
