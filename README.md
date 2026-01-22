@@ -7,6 +7,19 @@ Self-Learning offers a unique approach to learning by providing concise and focu
 
 Self-Learning is also beginner-friendly, making it an ideal resource for those who are just starting to learn about a subject. The pages are written in a way that is easy to understand, and any prerequisites are clearly outlined, ensuring that the reader has the necessary background knowledge before diving into the topic.
 
+## Windows / Git Long Path Support
+
+Some paths in this repository are long. To avoid path-length errors (especially on Windows):
+
+- Git: enable long paths (recommended for all contributors)
+	- Per repo (run inside repo): `git config core.longpaths true`
+	- Global: `git config --global core.longpaths true`
+- Windows: enable long paths once per machine
+	- Group Policy: Local Computer Policy → Computer Configuration → Administrative Templates → System → Filesystem → **Enable Win32 long paths** → Enabled
+	- Or Registry: set `HKLM\SYSTEM\CurrentControlSet\Control\FileSystem\LongPathsEnabled` to `1` (requires reboot/logoff)
+
+With these settings, modern Git/VS Code handle long paths correctly.
+
 ## What topics are covered in Self-Learning?
 
 Self-Learning covers a wide range of academic topics, from computer science to mathematics to literature. The wiki is constantly expanding as contributors add new pages and improve existing ones. The goal of Self-Learning is to provide a comprehensive resource that covers a wide range of topics, allowing users to quickly and easily find the information they need.

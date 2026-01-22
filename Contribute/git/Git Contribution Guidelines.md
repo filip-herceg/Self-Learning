@@ -3,6 +3,18 @@
 
 This guide provides an overview of the Git workflow for contributing to the Self-Learning project. Git is a powerful version control system that allows for collaborative development, and following these guidelines will ensure that your contributions are submitted in a consistent and efficient manner.
 
+## Long Path Support (Windows + Git)
+
+Some folders and files in this repository are long. To avoid path-length errors on Windows and in Git:
+
+- Enable Git long paths (recommended for all contributors):
+	- Per repo (run in repo): `git config core.longpaths true`
+	- Global: `git config --global core.longpaths true`
+- Enable Windows long paths (once per machine):
+	- Group Policy: Local Computer Policy → Computer Configuration → Administrative Templates → System → Filesystem → **Enable Win32 long paths** → Enabled.
+	- OR Registry: set `HKLM\SYSTEM\CurrentControlSet\Control\FileSystem\LongPathsEnabled` to `1` (requires reboot/logoff).
+- After enabling, use modern tooling (current Git/VS Code) which respects long paths.
+
 ## Forking the Repository
 
 To contribute to Self-Learning, you first need to fork the repository. This creates a copy of the project in your own account that you can make changes to without affecting the original repository. To fork the repository, click the "Fork" button on the top right corner of the repository page on Github.
