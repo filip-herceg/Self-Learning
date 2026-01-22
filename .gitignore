@@ -1,1 +1,14 @@
-./.obsidian/
+# Obsidian workspace files (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache and sync files
+.obsidian/workspace
+.obsidian/Cache/
+.obsidian/plugins/*/data.json
+.trash/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
